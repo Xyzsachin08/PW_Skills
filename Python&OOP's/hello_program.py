@@ -1,0 +1,2 @@
+print("Eth kahi jatu")
+
