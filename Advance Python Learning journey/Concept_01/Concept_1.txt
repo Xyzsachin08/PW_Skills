@@ -1,0 +1,9 @@
+Goal: Master Python fundamentals, operators, and basic I/O.
+Topics:
+•Python installation, IDE setup, running scripts & interactive shell
+•Variables, data types (int, float, bool, str, complex), type conversion
+•Input/output (input(), print(), f-strings, .format())
+•Operators: arithmetic, comparison, logical, assignment, bitwise, identity, membership
+•Operator precedence and associativity
+•Expressions and shorthand operators (+=, *=)
+Practice: Calculator, greeting program
