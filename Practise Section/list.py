@@ -1,5 +1,6 @@
 l1 = [45, 78, 4, 5]
 l2 = [45,85,75]
+print(list(set(l1)))
 #l1.append(23)
 #l1.insert(1,10)
 #l1.extend(l2)
